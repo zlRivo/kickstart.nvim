@@ -3,5 +3,9 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-	'christoomey/vim-tmux-navigator'
+	'christoomey/vim-tmux-navigator',
+
+	-- Tree
+	'nvim-tree/nvim-tree.lua',
+	'nvim-tree/nvim-web-devicons'
 }
